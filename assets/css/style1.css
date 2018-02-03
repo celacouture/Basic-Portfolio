@@ -1,6 +1,7 @@
 * {box-sizing: border-box;}
 
-body{background:rgb(198, 197, 206) url("https://github.com/celacouture/Basic-Portfolio/blob/master/assets/images/swirl_pattern.png");
+body{background-image:url("https://www.transparenttextures.com/patterns/checkered-light-emboss.png"); 
+    background-color:rgb(147, 159, 170);
 height:100%;}
 
 .wrapper{
